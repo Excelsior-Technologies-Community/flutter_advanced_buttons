@@ -723,31 +723,6 @@ cd example
 flutter run
 ```
 
----
-
-# Contributing
-
-Contributions are welcome.
-
-To contribute:
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Make your changes.
-4. Add or update tests where required.
-5. Run formatting and analysis.
-6. Commit your changes.
-7. Create a pull request.
-
-Before submitting a pull request, run:
-
-```bash
-dart format .
-flutter analyze
-flutter test
-```
-
----
 
 # License
 
